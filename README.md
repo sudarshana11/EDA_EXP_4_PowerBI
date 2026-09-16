@@ -74,4 +74,4 @@ Create the following measures:
 
 
 **Result**
-Thus, the sales data was successfully prepared and analyzed using Power BI. Bivariat
+Thus, the sales data was successfully prepared and analyzed using Power BI. 
